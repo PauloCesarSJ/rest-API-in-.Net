@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github"
+    "\\TodoApi"
   ],
+  "SelectedNode": "\\TodoApi\\WeatherForecast.cs",
   "PreviewInSolutionExplorer": false
 }
