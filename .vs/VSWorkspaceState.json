@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TodoApi"
+    "\\TodoApi",
+    "\\TodoApi\\Models"
   ],
-  "SelectedNode": "\\TodoApi\\WeatherForecast.cs",
+  "SelectedNode": "\\TodoApi\\TodoApi.sln",
   "PreviewInSolutionExplorer": false
 }
