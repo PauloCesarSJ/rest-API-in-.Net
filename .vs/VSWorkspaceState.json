@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github"
+    "\\TodoApi",
+    "\\TodoApi\\Controllers",
+    "\\TodoApi\\Models"
   ],
+  "SelectedNode": "\\TodoApi\\Controllers\\todoitemsController.cs",
   "PreviewInSolutionExplorer": false
 }
