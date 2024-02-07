@@ -3,8 +3,10 @@
     "",
     "\\TodoApi",
     "\\TodoApi\\Controllers",
-    "\\TodoApi\\Models"
+    "\\TodoApi\\Models",
+    "\\TodoApi\\wwwroot",
+    "\\TodoApi\\wwwroot\\js"
   ],
-  "SelectedNode": "\\TodoApi\\Controllers\\todoitemsController.cs",
+  "SelectedNode": "\\TodoApi\\wwwroot\\js\\site.js",
   "PreviewInSolutionExplorer": false
 }
